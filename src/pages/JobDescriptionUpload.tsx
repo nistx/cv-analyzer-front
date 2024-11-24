@@ -76,7 +76,7 @@ function JobDescriptionUpload() {
 					<div className="px-[20vh] text-white mt-[15vh]">
 						<p className="font-bold text-[40px] leading-[1] mb-10">
 							Encuentra el candidato perfecto con{" "}
-							<span className="text-[#8e8f9e]">IA</span>
+							<span className="text-[#00FFAB]">IA</span>
 						</p>
 						<Alert>
 							<Terminal className="h-4 w-4" />
